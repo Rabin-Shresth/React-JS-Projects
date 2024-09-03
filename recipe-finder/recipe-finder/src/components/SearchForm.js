@@ -8,7 +8,7 @@ export default function SearchForm(props) {
   
   const handleSubmit = (e)=>{
     e.preventDefault();
-    console.log(props.search)
+    // console.log(props.search)
   };
   
   return (
